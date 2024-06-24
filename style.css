@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(31, 204, 115);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  border-radius: 5px;
+  border: 2px solid darkgreen;
+}
