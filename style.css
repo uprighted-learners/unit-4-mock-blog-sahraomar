@@ -2,3 +2,27 @@ html {
     height: 100%;
     width: 100%;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: green;
+
+}
+
+#character1-container, #character2-container {
+    margin: 20px
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    border: 10px solid; 
+    color: blue;
+}
+
+
